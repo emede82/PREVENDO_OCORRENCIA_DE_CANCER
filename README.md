@@ -40,9 +40,9 @@ O processo de detecção precoce envolve a análise de nódulos ou massas  anorm
 
 ## Desafios
 
-1. **Ambiguidade Linguística**: Diferenças no significado das palavras em diferentes contextos.
+1. **Dados Desbalanceado**: Podem distorcer os resultados de cada métrica, portanto, testar o desempenho de um modelo em várias métricas é fundamental para determinar o quão bem ele realmente funciona.
 2. **Ironia e Sarcasmo**: Dificuldade em identificar emoções quando expressas de maneira indireta.
-3. **Diversidade Linguística**: Variedade de expressões e gírias em diferentes idiomas e regiões.
+
 
 ## Aplicações Práticas
 
